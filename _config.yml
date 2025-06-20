@@ -1,6 +1,7 @@
 title: AwesomeJT
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
+# favicon: /assets/images/logo.avif
 
 ##
 # Typewritter configuration.
